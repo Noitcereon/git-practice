@@ -1,0 +1,1 @@
+This is File 6, which was added after the "Merge branch 'another-branch'
