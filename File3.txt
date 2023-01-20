@@ -1,1 +1,3 @@
 This is file 3.
+
+File 3 was part of the initial commit, but not this line of text.
